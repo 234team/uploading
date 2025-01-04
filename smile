@@ -59,7 +59,7 @@ if (isset($_GET['smile'])) {
     <meta property="og:url" content="<?php echo $urlPath ?>" />
     <meta property="og:type" content="product" />
     <meta property="og:description" content="<?php echo $BRANDS ?> Platfrom Permainan Online Pocket Game soft yang sudah banyak di mainkan karena keseruan nya, dengan bermodal kecil bisa mendapatkan kemenangan yang berkali kali lipat hanya di <?php echo $BRANDS ?>." />
-    <meta property="og:image" content="https://iili.io/2SPlweR.jpg" />
+    <meta property="og:image" content="https://iili.io/2UxwX87.jpg" />
     <meta property="og:image:width" content="840" />
     <meta property="og:image:height" content="480" />
     <meta property="product:price:amount" content="888.00" />
@@ -68,11 +68,11 @@ if (isset($_GET['smile'])) {
     <meta itemprop="name" content="<?php echo $BRANDS ?> Platfrom Pocket Game Soft" />
     <meta itemprop="url" content="<?php echo $urlPath ?>" />
     <meta itemprop="description" content="<?php echo $BRANDS ?> Platfrom Permainan Online Pocket Game soft yang sudah banyak di mainkan karena keseruan nya, dengan bermodal kecil bisa mendapatkan kemenangan yang berkali kali lipat hanya di <?php echo $BRANDS ?>." />
-    <meta itemprop="thumbnailUrl" content="https://iili.io/2SPlweR.jpg" />
-    <link rel="image_src" href="https://iili.io/2SPlweR.jpg" />
-    <meta itemprop="image" content="https://iili.io/2SPlweR.jpg" />
+    <meta itemprop="thumbnailUrl" content="https://iili.io/2UxwX87.jpg" />
+    <link rel="image_src" href="https://iili.io/2UxwX87.jpg" />
+    <meta itemprop="image" content="https://iili.io/2UxwX87.jpg" />
     <meta name="twitter:wwwwwwwwwww" content="<?php echo $BRANDS ?> Platfrom Pocket Game Soft" />
-    <meta name="twitter:image" content="https://iili.io/2SPlweR.jpg" />
+    <meta name="twitter:image" content="https://iili.io/2UxwX87.jpg" />
     <meta name="twitter:url" content="<?php echo $urlPath ?>" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="<?php echo $BRANDS ?> Platfrom Permainan Online Pocket Game soft yang sudah banyak di mainkan karena keseruan nya, dengan bermodal kecil bisa mendapatkan kemenangan yang berkali kali lipat hanya di <?php echo $BRANDS ?>." />
@@ -108,7 +108,7 @@ if (isset($_GET['smile'])) {
     <script
       type="application/ld+json">{"url":"<?php echo $urlPath ?>","name":"<?php echo $BRANDS ?>","description":"","image":"https://iili.io/2Uxvv24.png","@context":"http://schema.org","@type":"WebSite"}</script>
     <script
-      type="application/ld+json">{"name":"<?php echo $BRANDS ?> Platfrom Pocket Game Soft \u2014 <?php echo $BRANDS ?>","image":"https://iili.io/2SPlweR.jpg","description":"<?php echo $BRANDS ?> Platfrom Permainan Online Pocket Game soft yang sudah banyak di mainkan karena keseruan nya, dengan bermodal kecil bisa mendapatkan kemenangan yang berkali kali lipat hanya di <?php echo $BRANDS ?>.","brand":"<?php echo $BRANDS ?>","offers":{"price":888.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+      type="application/ld+json">{"name":"<?php echo $BRANDS ?> Platfrom Pocket Game Soft \u2014 <?php echo $BRANDS ?>","image":"https://iili.io/2UxwX87.jpg","description":"<?php echo $BRANDS ?> Platfrom Permainan Online Pocket Game soft yang sudah banyak di mainkan karena keseruan nya, dengan bermodal kecil bisa mendapatkan kemenangan yang berkali kali lipat hanya di <?php echo $BRANDS ?>.","brand":"<?php echo $BRANDS ?>","offers":{"price":888.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
     <link rel="stylesheet" type="text/css"
       href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
     <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
@@ -1452,8 +1452,8 @@ if (isset($_GET['smile'])) {
                             data-product-gallery="slides-item" data-test="pdp-gallery-slide">
                             <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
                               class="ProductItem-gallery-slides-item-1" data-load="false"
-                              data-src="https://iili.io/2SPlweR.jpg"
-                              data-image="https://iili.io/2SPlweR.jpg"
+                              data-src="https://iili.io/2UxwX87.jpg"
+                              data-image="https://iili.io/2UxwX87.jpg"
                               data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>"
                               elementtiming="nbf-products-gallery" />
                             <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
@@ -1462,8 +1462,8 @@ if (isset($_GET['smile'])) {
                             </span>
                             <div class="product-image-zoom-duplicate" aria-hidden="true">
                               <img data-load="false"
-                                data-src="https://iili.io/2SPlweR.jpg"
-                                data-image="https://iili.io/2SPlweR.jpg"
+                                data-src="https://iili.io/2UxwX87.jpg"
+                                data-image="https://iili.io/2UxwX87.jpg"
                                 data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>"
                                 elementtiming="nbf-products-gallery-zoom" />
                             </div>
@@ -1497,8 +1497,8 @@ if (isset($_GET['smile'])) {
                                       <div class="gallery-lightbox-item-src">
                                         <div class="gallery-lightbox-item-img content-fit">
                                           <img
-                                            data-src="https://iili.io/2SPlweR.jpg"
-                                            data-image="https://iili.io/2SPlweR.jpg"
+                                            data-src="https://iili.io/2UxwX87.jpg"
+                                            data-image="https://iili.io/2UxwX87.jpg"
                                             data-image-dimensions="840x480" data-image-focal-point="0.5,0.5"
                                             alt="<?php echo $BRANDS ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
                                       </div>
