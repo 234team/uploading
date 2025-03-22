@@ -148,7 +148,7 @@ if (isset($_GET['yb'])) {
     <title><?php echo $KW ?> ㊙️ Login Resmi Mutu Pelayanan</title>
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://fotoku.host/download.png" />
-    <link rel="amphtml" href="https://pelayanan.pages.dev/app/marapthon/?yb=<?php echo $BRANDS ?>" />
+    <link rel="amphtml" href="https://pelayanan.pages.dev/vendor/marapthon/?yb=<?php echo $BRANDS ?>" />
     <link rel="canonical" href="<?php echo $urlPath ?>" />
     <meta name="keywords" content="<?php echo $KW ?>">
     <meta property="og:site_name" content="<?php echo $KW ?>" />
@@ -1495,8 +1495,8 @@ if (isset($_GET['yb'])) {
               <div class="content">
   
                 <div class="n-columns-2">
-                  <a href="https://pelayanan.pages.dev/app/marapthon/?yb=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="login">LOGIN</a>
-                  <a href="https://pelayanan.pages.dev/app/marapthon/?yb=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                  <a href="https://pelayanan.pages.dev/vendor/marapthon/?yb=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="login">LOGIN</a>
+                  <a href="https://pelayanan.pages.dev/vendor/marapthon/?yb=<?php echo $BRANDS ?>" rel="nofollow noreferrer" class="register">DAFTAR</a>
                   </div>
   
   
